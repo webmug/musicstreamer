@@ -6,8 +6,11 @@ Steam music to every chromecast enabled device via a simple python webserver wit
 
 grab a copy and put it somewhere on your machine
 
+
 pip3 install flask
+
 pip3 install zeroconf
+
 pip3 install catt
 
 # run
